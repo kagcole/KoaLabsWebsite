@@ -312,15 +312,25 @@
 						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
 								</li>
 					</ul>
+					<ul class="thumbnails">
+						<li class="span4">
+						<a class="logolink" href="http://www.voltdb.com/" target="_blank"><img class="logo" src="img/companies/voltdb.png" alt="Voltdb" title="The Worlds Fastest OLTP Database"></a>
+						</li>
+							<li class="span4">
+							<a class="logolink" href="http://www.n-of-one.com" target="_blank"><img class= "logo" src="img/companies/nofone.jpeg" alt="N of One" title="Powering Precision Medicine"></a>
+							</li>
+								<li class="span4">
+						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
+								</li>
+					</ul>
 				<ul class="thumbnails">
 					<li class="span4">
-							<a class="logolink" href="hhttp://medio.com/" target="_blank"><img class="logo" src="img/companies/medio.png" alt="Medio" title="Better Acquire, Retain, and Monetize Your Mobile Customers"></a>
+							<a class="logolink" href="http://www.goby.com" target="_blank"><img class="logo" src="img/companies/goby.jpeg" alt="Goby" title="Acquired by Telenav!"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.syapse.com/" target="_blank"><img class="logo" src="img/companies/syapse.png" alt="Syapse" title="Bringing Omics into Routine Medical Care"></a>
 					</li>
 					<li>
-						<a class="logolink" href="http://www.ayata.com/" target="_blank"><img class="logo" src="img/companies/ayata.png" alt="Ayata" title="Prescriptive Analytics Software"></a>
+			
 					</li>
 				</ul>
 				<!-- ul is row, li is item. max three items per row.
