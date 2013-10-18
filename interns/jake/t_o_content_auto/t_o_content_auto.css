@@ -1,0 +1,59 @@
+body {
+ background-color:black; 
+}
+
+div {
+    height:15em;
+    width:15em;
+    border-radius:20px;
+    display:inline-block;
+    position:relative;
+    left:16.75em;
+    margin:5px;
+    margin-left:auto;
+    margin-right:auto;
+    opacity:1;
+    z-index:-1; /*not necessary, but just for parallelism with t_o_content.css*/
+}
+
+button {
+    display:block;
+    margin:10px;
+    margin-left:auto;
+    margin-right:auto;
+    border-radius:5px;
+    text-align:center;
+}
+
+button p {
+    font-family:Arial;
+    font-size:12px;
+}
+
+#one {
+    background-color:red;
+}
+
+#two {
+    background-color:orange;
+}
+
+#three {
+    background-color:yellow;
+}
+
+#four {
+    background-color:purple;
+}
+
+#five {
+    background-color:blue;
+}
+
+#six {
+    background-color:green;
+}
+
+.inv {          /*class: invisible*/
+    opacity:0;
+}
