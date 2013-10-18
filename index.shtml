@@ -127,7 +127,7 @@
 		
 				<ul class="thumbnails">
 					<li class="span4">
-						<a class="logolink" href="http://www.koalab.com/" target="_blank"><img class="nologo" src="img/companies/informite.png" alt="Informite" title="Shhh... Stealth Mode"></a>
+						<a class="logolink" href="http://www.koalab.com/" target="_blank"><img class="logo" src="img/companies/informite.png" alt="Informite" title="Shhh... Stealth Mode"></a>
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://www.fetchnotes.com/" target="_blank"><img class="logo" src="img/companies/Fetchnoteslogo.png" alt="Fetchnotes" title="Your mind's best friend"></a>
@@ -139,7 +139,7 @@
 				
 				<ul class="thumbnails">
 					<li class="span4">
-						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="nologo" src="img/companies/Atelion.png" alt="Atelion" title="Shhh... Stealth Mode"></a>
+						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="logo" src="img/companies/Atelion.png" alt="Atelion" title="Patient driven management of chronic diseases"></a>
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://fusebenefits.com/" target="_blank"><img class="logo" src="img/companies/fusebenefits.png" alt="Fuse Benefits" title="Shhh.... Stealth Mode"></a>
@@ -170,7 +170,7 @@
 				<br><br>
 				<ul class="thumbnails" >
 					<li class="span4">
-						<a class="logolink" href="http://www.cloudant.com" target="_blank"><img class="logo" src="img/companies/cloudant.png" alt="Distributed Database as a Service"></a>
+						<a class="logolink" href="http://www.cloudant.com" target="_blank"><img class="logo" src="img/companies/cloudant.png" alt="Cloudant" title="Distributed Database as a Service"></a>
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://www.upstart.com" target="_blank"><img class="logo" src="img/companies/upstart.png" alt="Upstart" title="The Start Up is You!"></a>
@@ -272,7 +272,7 @@
 						<a class="logolink" href="http://www.sharespost.com" target="_blank"><img class="logo" src="img/companies/sharespost.png" alt="SharesPost" title="Liquidifying Private Markets"></a>
 					</li>
 					<li class="span4">
-					<a class="logolink" href="http://www.giveforward.com" target="_blank"><img class="nologo" src="img/companies/giveforward.png" alt="Giveforward" title="Change someone's World'"></a>
+					<a class="logolink" href="http://www.giveforward.com" target="_blank"><img class="logo" src="img/companies/giveforward.png" alt="GiveForward" title="Change Someone's World'"></a>
 					</li>
 				</ul>
 				<ul class="thumbnails">
