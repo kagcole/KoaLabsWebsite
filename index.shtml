@@ -281,8 +281,8 @@
 						<a class="logolink" href="http://www.esharesinc.com" target="_blank"><img class="logo" src="img/companies/eShares.png" alt="eShares" title="No more paper certificates!"></a>
 					</li>
 					<li class="span4">
-					
-						<a class="logolink" href="http://www.n-of-one.com" target="_blank"><img class= "logo" src="img/companies/nofone.jpeg" alt="N of One" title="Powering Precision Medicine"></a>
+					<a class="logolink" href="http://maxwellhealth.com/" target="_blank"><img class="logo" src="img/companies/maxwellhealth.png" alt="Maxwell Health" title="The Future of Benefits, Now"></a>
+						
 					</li>
 					<li class="span4">
 						<a class="logolink" href="https://www.openbay.com/" target="_blank"><img class="logo" src="img/companies/openbay.png" alt="Openbay" title="Enabling better servicing for your car"></a>
@@ -306,7 +306,7 @@
 						<a class="logolink" href="http://www.voltdb.com/" target="_blank"><img class="logo" src="img/companies/voltdb.png" alt="Voltdb" title="The Worlds Fastest OLTP Database"></a>
 						</li>
 							<li class="span4">
-							<a class="logolink" href="http://maxwellhealth.com/" target="_blank"><img class="logo" src="img/companies/maxwellhealth.png" alt="Maxwell Health" title="The Future of Benefits, Now"></a>
+							<a class="logolink" href="http://www.n-of-one.com" target="_blank"><img class= "logo" src="img/companies/nofone.jpeg" alt="N of One" title="Powering Precision Medicine"></a>
 							</li>
 								<li class="span4">
 						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
@@ -320,7 +320,6 @@
 						<a class="logolink" href="http://www.syapse.com/" target="_blank"><img class="logo" src="img/companies/syapse.png" alt="Syapse" title="Bringing Omics into Routine Medical Care"></a>
 					</li>
 					<li>
-					
 						<a class="logolink" href="http://www.ayata.com/" target="_blank"><img class="logo" src="img/companies/ayata.png" alt="Ayata" title="Prescriptive Analytics Software"></a>
 					</li>
 				</ul>
