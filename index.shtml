@@ -295,7 +295,8 @@
 					</li>
 				
 					<li class="span4">
-						<a class="logolink" href="http://www.parstream.com" target="_blank"><img class="logo" src="img/companies/parstream.png" alt="Parstream" title="Real Time Big Data Analytics"></a>
+							<a class="logolink" href="http://www.goby.com" target="_blank"><img class="logo" src="img/companies/goby.jpg" alt="Goby" title="Acquired by Telenav!"></a>
+					
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://docphin.com" target="_blank"><img class="logo" src="img/companies/docphin.png" alt="Docphin" title="The latest medical research for doctors"></a>
@@ -312,20 +313,10 @@
 						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
 								</li>
 					</ul>
-					<ul class="thumbnails">
-						<li class="span4">
-						<a class="logolink" href="http://www.voltdb.com/" target="_blank"><img class="logo" src="img/companies/voltdb.png" alt="Voltdb" title="The Worlds Fastest OLTP Database"></a>
-						</li>
-							<li class="span4">
-							<a class="logolink" href="http://www.n-of-one.com" target="_blank"><img class= "logo" src="img/companies/nofone.jpeg" alt="N of One" title="Powering Precision Medicine"></a>
-							</li>
-								<li class="span4">
-						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
-								</li>
-					</ul>
+					
 				<ul class="thumbnails">
 					<li class="span4">
-							<a class="logolink" href="http://www.goby.com" target="_blank"><img class="logo" src="img/companies/goby.jpeg" alt="Goby" title="Acquired by Telenav!"></a>
+							<a class="logolink" href="http://www.parstream.com" target="_blank"><img class="logo" src="img/companies/parstream.png" alt="Parstream" title="Real Time Big Data Analytics"></a>
 					</li>
 					<li class="span4">
 					</li>
