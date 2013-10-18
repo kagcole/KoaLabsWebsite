@@ -151,10 +151,10 @@
 				<br><br>
 				<ul class="thumbnails" >
 					<li class="span4">
-						<a class="logolink" href="http://www.ape-system.com/" target="_blank"><img class="logo" src="http://ape-system.com/images/ape_systems_logo.gif" alt="APE System" title="Strength and Conditioning. Evolved."></a>
+						<a class="logolink" href="http://ape-system.com/" target="_blank"><img class="logo" src="http://ape-system.com/images/ape_systems_logo.gif" alt="APE System" title="Strength and Conditioning. Evolved."></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="logo" src="img/companies/Conjur.png" alt="Conjur" title="Shhh... Stealth Mode"></a>
+						<a class="logolink" href="hhttp://www.conjur.net/" target="_blank"><img class="logo" src="img/companies/Conjur.png" alt="Conjur" title="Shhh... Stealth Mode"></a>
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://resurety.com/" target="_blank"><img class="logo" src="img/companies/resurety.png" alt="Resurety" title="Making wind power predictable and profitable"></a>
@@ -176,15 +176,27 @@
 						<a class="logolink" href="http://www.upstart.com" target="_blank"><img class="logo" src="img/companies/upstart.png" alt="Upstart" title="The Start Up is You!"></a>
 					</li>
 					<li>
+					<a class="logolink" href="http://www.evergage.com/" target="_blank"><img class="logo" src="img/companies/evergage.png" alt="Evergage" title="Real Time Web Personalization"></a>
+					</li>
+				</ul>
+				<ul class="thumbnails" >
+					<li class="span4">
 					
+					<a class="logolink" href="http://www.bluefinlabs.com" target="_blank"><img class="logo" src="img/companies/Bluefin.png" alt="BlueFin Labs" title="Acquired by Twitter!"></a>
+					</li>
+					<li class="span4">
+					<a class="logolink" href="http://matter.io" target="_blank"><img class="logo" src="img/companies/matterio.png" alt="MatterIO" title="Easy 3D Modeling"></a>	
+					</li>
+					<li>
+					<a class="logolink" href="http://www.paradigm4.com/" target="_blank"><img class="logo" src="img/companies/paradigm4.png" alt="Paradigm4" title="Data-Drive Discovery"></a>
 					</li>
 				</ul>
 				<ul class="thumbnails"> 
 					<li class="span4">
-							<a class="logolink" href="http://www.bluefinlabs.com" target="_blank"><img class="logo" src="img/companies/Bluefin.png" alt="BlueFin Labs" title="Acquired by Twitter!"></a>	
+					<a class="logolink" href="http://recordedfuture.com/" target="_blank"><img class="logo" src="img/companies/recordedfuture.png" alt="Recorded Future" title="Unlocking the predictive power of the web"></a>				
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.paradigm4.com/" target="_blank"><img class="logo" src="img/companies/paradigm4.png" alt="Paradigm4" title="Data-Drive Discovery"></a>
+						<a class="logolink" href="http://med.firecracker.me" target="_blank"><img class="logo" src="img/companies/firecracker.png" alt="Firecracker" title="Revolutionizing Medical Education"></a>
 					</li>
 					<li class="span4">
 				<a class="logolink" href="https://www.kinsahealth.com/" target="_blank"><img class="logo" src="img/companies/kinsa.png" alt="Kinsa Health" title="Better Health for your Family"></a>
@@ -223,7 +235,7 @@
 					</li>
 			
 					<li class="span4">
-						<a class="logolink" href="http://www.evergage.com/" target="_blank"><img class="logo" src="img/companies/evergage.png" alt="Evergage" title="Real Time Web Personalization"></a>
+						<a class="logolink" href="http://www.giveforward.com" target="_blank"><img class="logo" src="img/companies/giveforward.png" alt="GiveForward" title="Change Someone's World'"></a>
 					</li>
 					<li class="span4">
 				<a class="logolink" href="http://www.vertica.com" target="_blank"><img class="logo" src="img/companies/vertica.jpg" alt="Vertica" title="Acquired by HP"></a>
@@ -266,13 +278,25 @@
 				</ul>
 				<ul class="thumbnails">
 					<li class="span4">
+					<a class="logolink" href="http://data-tamer.com/" target="_blank"><img class="logo" src="img/companies/datatamer.png" alt="DataTamer" title="Data Curation at Scale"></a>
+					</li>
+					<li class="span4">
+						<a class="logolink" href="hhttp://www.conjur.net/" target="_blank"><img class="logo" src="img/companies/Conjur.png" alt="Conjur" title="Shhh... Stealth Mode"></a>
+					</li>
+					<li class="span4">
+					<a class="logolink" href="http://resurety.com/" target="_blank"><img class="logo" src="img/companies/resurety.png" alt="Resurety" title="Making wind power predictable and profitable"></a>
+					</li>
+				</ul>
+				<ul class="thumbnails">
+					<li class="span4">
 						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="logo" src="img/companies/freshairsensor.png" alt="FreshAir Sensor" title="Shhh... Stealth Mode"></a>
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://www.sharespost.com" target="_blank"><img class="logo" src="img/companies/sharespost.png" alt="SharesPost" title="Liquidifying Private Markets"></a>
 					</li>
 					<li class="span4">
-					<a class="logolink" href="http://www.giveforward.com" target="_blank"><img class="logo" src="img/companies/giveforward.png" alt="GiveForward" title="Change Someone's World'"></a>
+						<a class="logolink" href="http://www.jobfig.com" target="_blank"><img class="logo" src="img/companies/jobfig.png" alt="Evergage" title="Never make a bad hire again!"></a>
+					
 					</li>
 				</ul>
 				<ul class="thumbnails">
