@@ -45,6 +45,7 @@
 		<script src="js/evergage.js"></script>
 
 		<!-- Fav and touch icons -->
+		<br>
 		<link rel="apple-touch-icon-precomposed" sizes="144x144" href="../assets/ico/apple-touch-icon-144-precomposed.png" target="_blank">
 		<link rel="apple-touch-icon-precomposed" sizes="114x114" href="../assets/ico/apple-touch-icon-114-precomposed.png" target="_blank">
 		<link rel="apple-touch-icon-precomposed" sizes="72x72" href="../assets/ico/apple-touch-icon-72-precomposed.png" target="_blank">
@@ -66,10 +67,10 @@
 				<ul id="navbar" class="nav nav-pills pull-right">
 					<li id="firstnav"><a class="other-nav-pill" href="#home">Home</a></li>
 					<li><a class="other-nav-pill" href="#companies">Members</a></li>
-					<li><a class="other-nav-pill" href="#koafund">Koa Network</a></li>
+					<li><a class="other-nav-pill" href="#koafund">Network</a></li>
 					<li><a class="membership-nav-pill" href="#membership">Membership <b>&#155;</b>	</a></li>
 					<li><a class="other-nav-pill" href="#location">Find us</a></li>
-					<li><a id="blog" href="http://blog.koalab.com/">Blog</a></li>
+					<li><a id="blog" href="http://blog.koalab.com/" target="_blank">Blog</a></li>
 				</ul>
 				<h3 class="muted"><a class="koa-logo" href="#"><img src="img/koa_labs_logo_horizontal.png"></a></h3>
 				<div style="float:left;width=300px;padding: 20%;padding-top:25px;padding-bottom:25px;" id="evergage-message-div"></div>
@@ -95,7 +96,7 @@
 				<p class="lead">Koa is a shared workspace in the heart of Harvard Square for promising start-ups. Founded in 2012 by serial entrepreneur <a href= "http://www.linkedin.com/in/andypalmer" target="_blank">Andy Palmer</a>, the space provides a collaborative environment to power the next generation of innovation. We’re proud to help strengthen Cambridge’s roaring start-up ecosystem.</p>
 			</div>
 
-			<hr>
+			<br>
       
 			<!-- COMPANIES -->
 	  
@@ -117,10 +118,9 @@
 				<ul class="thumbnails">
 					<li class="span4">
 						<a class="logolink" href="http://www.mod.it" target="_blank"><img class="logo" src="img/companies/modit.png" alt="Mod.it" title="Games and apps for anyone, by anyone"></a>
-					</li>
-					<li class="span4">
-						<a class="logolink" href="http://www.pushpage.me" target="_blank"><img class="logo" src="img/companies/pushpage.png" alt="Pushpage" title="Interactive Personal Interviews"></a>
-					</li>
+						<li class="span4">
+							<a class="logolink" href="http://www.fetchnotes.com/" target="_blank"><img class="logo" src="img/companies/Fetchnoteslogo.png" alt="Fetchnotes" title="Your mind's best friend"></a>
+						</li>
 					<li class="span4">
 						<a class="logolink" href="http://data-tamer.com/" target="_blank"><img class="logo" src="img/companies/datatamer.png" alt="DataTamer" title="Data Curation at Scale"></a>
 					</li>
@@ -131,19 +131,16 @@
 						<a class="logolink" href="http://www.koalab.com/" target="_blank"><img class="logo" src="img/companies/informite.png" alt="Informite" title="Shhh... Stealth Mode"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.fetchnotes.com/" target="_blank"><img class="logo" src="img/companies/Fetchnoteslogo.png" alt="Fetchnotes" title="Your mind's best friend"></a>
+						<a class="logolink" href="https://angel.co/atelion-health" target="_blank"><img class="logo" src="img/companies/Atelion.png" alt="Atelion" title="Patient driven management of chronic diseases"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.stottlerhenke.com/" target="_blank"><img class="logo" src="img/companies/stottlerhenke.png" alt="Stottler-Henke" title="Artificial Intelligence Software Solutions"></a>
+						<a class="logolink" href="http://fusebenefits.com/" target="_blank"><img class="logo" src="img/companies/fusebenefits.png" alt="Fuse Benefits" title="Shhh.... Stealth Mode"></a>
 					</li>
 				</ul>
 				
 				<ul class="thumbnails">
 					<li class="span4">
-						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="logo" src="img/companies/Atelion.png" alt="Atelion" title="Patient driven management of chronic diseases"></a>
-					</li>
-					<li class="span4">
-						<a class="logolink" href="http://fusebenefits.com/" target="_blank"><img class="logo" src="img/companies/fusebenefits.png" alt="Fuse Benefits" title="Shhh.... Stealth Mode"></a>
+						<a class="logolink" href="http://www.stottlerhenke.com/" target="_blank"><img class="logo" src="img/companies/stottlerhenke.png" alt="Stottler-Henke" title="Artificial Intelligence Software Solutions"></a>
 					</li>
 				</ul>
 				
@@ -152,10 +149,10 @@
 				<br><br>
 				<ul class="thumbnails" >
 					<li class="span4">
-						<a class="logolink" href="http://ape-system.com/" target="_blank"><img class="logo" src="http://ape-system.com/images/ape_systems_logo.gif" alt="APE System" title="Strength and Conditioning. Evolved."></a>
+						<a class="logolink" href="http://www.pushpage.me" target="_blank"><img class="logo" src="img/companies/pushpage.png" alt="Pushpage" title="Interactive Personal Interviews"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="hhttp://www.conjur.net/" target="_blank"><img class="logo" src="img/companies/Conjur.png" alt="Conjur" title="Shhh... Stealth Mode"></a>
+						<a class="logolink" href="http://www.conjur.net/" target="_blank"><img class="logo" src="img/companies/conjur.png" alt="Conjur" title="Access and Identity Management as a Service"></a>
 					</li>
 					<li class="span4">
 						<a class="logolink" href="http://resurety.com/" target="_blank"><img class="logo" src="img/companies/resurety.png" alt="Resurety" title="Making wind power predictable and profitable"></a>
@@ -164,6 +161,9 @@
 				<ul class="thumbnails" >
 					<li class="span4">
 						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="nologo" src="img/companies/Chorus.png" alt="Chorus" title="Shhh... Stealth Mode"></a>
+					</li>
+					<li class="span4">
+						
 					</li>
 				</ul>
 				<br>
@@ -207,13 +207,24 @@
 				<a class="logolink" href="https://www.kinsahealth.com/" target="_blank"><img class="logo" src="img/companies/kinsa.png" alt="Kinsa Health" title="Better Health for your Family"></a>
 					</li>
 				</ul> 
-			
+				<ul class="thumbnails"> 
+					<li class="span4">
+						<a class="logolink" href="http://www.constanttherapy.com/" target="_blank"><img class="logo" src="img/companies/constanttherapy.png" alt="Constant Therapy" title="Liberating Brain Rehabilitation"></a>			
+					</li>
+					<li class="span4">
+					<a class="logolink" href="http://www.conjur.net/" target="_blank"><img class="logo" src="img/companies/conjur.png" alt="Conjur" title="Access and Identity Management as a Service"></a>
+					</li>
+					<li class="span4">
+						<a class="logolink" href="http://www.mimobaby.com" target="_blank"><img class="logo" src="img/companies/restdevices.png" alt="Conjur" title="Smart Baby Monitoring Devices"></a>
+					</li>
+				</ul> 
 				<ul class="thumbnails">
 					<li class="span4">
 						<a class="logolink" href="http://www.cloudswitch.com/" target="_blank"><img class="logo" src="img/companies/cloudswitch.png" alt="Giveforward" title="Acquired by Verizon!"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.avado.com/" target="_blank"><img class="logo" src="img/companies/avado.jpg" alt="Avado" title="Care Beyond the Clinic"></a>
+							<a class="logolink" href="https://angel.co/atelion-health" target="_blank"><img class="logo" src="img/companies/Atelion.png" alt="Atelion" title="Patient driven management of chronic diseases"></a>
+						
 					</li>
 					<li class="span4">
 					<a class="logolink" href="http://www.nifti.com/" target="_blank"><img class="logo" src="img/companies/nifti.png" alt="Nifti" title="Shop Like a Genius"></a>
@@ -282,10 +293,10 @@
 				</ul>
 				<ul class="thumbnails">
 					<li class="span4">
-					<a class="logolink" href="http://data-tamer.com/" target="_blank"><img class="logo" src="img/companies/datatamer.png" alt="DataTamer" title="Data Curation at Scale"></a>
+						<a class="logolink" href="http://data-tamer.com/" target="_blank"><img class="logo" src="img/companies/datatamer.png" alt="DataTamer" title="Data Curation at Scale"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="hhttp://www.conjur.net/" target="_blank"><img class="logo" src="img/companies/Conjur.png" alt="Conjur" title="Shhh... Stealth Mode"></a>
+<a class="logolink" href="http://www.sharespost.com" target="_blank"><img class="logo" src="img/companies/sharespost.png" alt="SharesPost" title="Liquidifying Private Markets"></a>
 					</li>
 					<li class="span4">
 					<a class="logolink" href="http://resurety.com/" target="_blank"><img class="logo" src="img/companies/resurety.png" alt="Resurety" title="Making wind power predictable and profitable"></a>
@@ -296,30 +307,40 @@
 						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="logo" src="img/companies/freshairsensor.png" alt="FreshAir Sensor" title="Shhh... Stealth Mode"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.sharespost.com" target="_blank"><img class="logo" src="img/companies/sharespost.png" alt="SharesPost" title="Liquidifying Private Markets"></a>
+						<a class="logolink" href="http://www.trustradius.com/" target="_blank"><img class="logo" src="img/companies/trustradius.png" alt="TrustRadius" title= "Crowdsourced enterprise technology reviews"></a>
 					</li>
 					<li class="span4">
-						<a class="logolink" href="http://www.jobfig.com" target="_blank"><img class="logo" src="img/companies/jobfig.png" alt="Evergage" title="Never make a bad hire again!"></a>
-					
+						<a class="logolink" href="http://www.koalab.com" target="_blank"><img class="logo" src="img/companies/TrustLayers.png" alt="TrustLayers" title= "Shhh... Stealthmode"></a>
 					</li>
 				</ul>
 				<ul class="thumbnails">
-					<li class="span4">
-					
-						<a class="logolink" href="http://www.esharesinc.com" target="_blank"><img class="logo" src="img/companies/eShares.png" alt="eShares" title="No more paper certificates!"></a>
-					</li>
-					<li class="span4">
-					<a class="logolink" href="http://maxwellhealth.com/" target="_blank"><img class="logo" src="img/companies/maxwellhealth.png" alt="Maxwell Health" title="The Future of Benefits, Now"></a>
-						
-					</li>
 					<li class="span4">
 						<a class="logolink" href="https://www.openbay.com/" target="_blank"><img class="logo" src="img/companies/openbay.png" alt="Openbay" title="Enabling better servicing for your car"></a>
 					</li>
 					
+					<li class="span4">
+					    <a class="logolink" href="http://maxwellhealth.com/" target="_blank"><img class="logo" src="img/companies/maxwellhealth.png" alt="Maxwell Health" title="The Future of Benefits, Now"></a>
+					</li>
+					
+					<li class="span4">
+						<a class="logolink" href="http://www.esharesinc.com" target="_blank"><img class="logo" src="img/companies/eShares.png" alt="eShares" title="No more paper certificates!"></a>
+					</li>
 				</ul>
 				<ul class="thumbnails">
 					<li class="span4">
-							<a class="logolink" href="http://www.parstream.com" target="_blank"><img class="logo" src="img/companies/parstream.png" alt="Parstream" title="Real Time Big Data Analytics"></a>
+						<a class="logolink" href="http://www.parstream.com" target="_blank"><img class="logo" src="img/companies/parstream.png" alt="Parstream" title="Real Time Big Data Analytics"></a>
+					</li>
+					<li class="span4">
+						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
+					</li>
+					<li class="span4">
+						<a class="logolink" href="http://www.vertica.com" target="_blank"><img class="logo" src="img/companies/vertica.jpg" alt="Vertica" title="Acquired by HP"></a>
+					
+					</li>
+				</ul>
+				<ul class="thumbnails">
+					<li class="span4">
+							<a class="logolink" href="http://www.avado.com/" target="_blank"><img class="logo" src="img/companies/avado.jpg" alt="Avado" title="Acquired by WebMD"></a>
 					</li>
 				
 					<li class="span4">
@@ -332,15 +353,16 @@
 				</ul>
 					<ul class="thumbnails">
 						<li class="span4">
-						<a class="logolink" href="http://www.vertica.com" target="_blank"><img class="logo" src="img/companies/vertica.jpg" alt="Vertica" title="Acquired by HP"></a>
+						<a class="logolink" href="http://www.jobfig.com" target="_blank"><img class="logo" src="img/companies/jobfig.png" alt="Evergage" title="Never make a bad hire again!"></a>
 						</li>
 							<li class="span4">
 							<a class="logolink" href="http://www.n-of-one.com" target="_blank"><img class= "logo" src="img/companies/nofone.jpeg" alt="N of One" title="Powering Precision Medicine"></a>
 							</li>
 								<li class="span4">
-						<a class="logolink" href="http://www.affdex.com/" target="_blank"><img class="logo" src="img/companies/affectiva.png" alt="Affdex" title="Measure Emotion"></a>
+						
 								</li>
 					</ul>
+					
 					
 				<!-- ul is row, li is item. max three items per row.
 					<ul class="thumbnails">
@@ -351,12 +373,13 @@
 					-->
 				</div>
 
-				<hr>
+				
 		
 				<!-- MEMBERSHIP -->
 
 		
 				<div class="nav-section" id="membership">
+					<div id="wild-banner"><h1 align="center">Join the Club</h1></div>
 			
 				<br>
 				
@@ -391,16 +414,13 @@
 					</div>
 					<br>
 					<br>
-			
 				</div>
-				<hr>
-		
-		
+			
 				<!-- MAP -->
 		
 		
 				<div class="nav-section" id="location">
-
+					<div id="wild-banner"><h1 align="center">Location</h1></div>
 					<p class="lead">We have two locations in the heart of Harvard Square:</p>
 		
 					<div class="addresses">
@@ -470,16 +490,9 @@
 				<br>
 				<br>
 				<br>
-				<h1>For more information, <a href= "mailto:kelsey.cole@koalab.com">Email Us</a></h1>
-			
-      
-				<hr>
-
-				<div class="footer nav-section">
-					<p><label style="float:right;">&copy; Koa Labs 2013</label> </p>
-				</div>
-
-			</div> <!-- /container -->
+				<h3 align ="center"><a href= "mailto:kelsey.cole@koalab.com">Email us</a> for more information</h3>
+				
+				
 		
 			
 			
